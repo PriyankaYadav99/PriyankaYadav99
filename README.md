@@ -1,112 +1,148 @@
 
-<!-- HERO SECTION -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:6C63FF,100:00E5FF&height=220&section=header&text=Priyanka%20Yadav&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20ReactJS%20Developer&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&text=PRIYANKA%20YADAV&fontSize=58&fontColor=ffffff&stroke=9B7BFF&strokeWidth=2&animation=fadeIn&desc=CREATIVE%20WEB%20DEVELOPER&descSize=18&descAlignY=72&color=0:080B18,50:21124D,100:061D32"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Experiences;ReactJS+%7C+JavaScript+%7C+PHP;Creative+Developer+%7C+Problem+Solver;Turning+Ideas+Into+Digital+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+Digital+Experiences;ReactJS+%7C+JavaScript+%7C+PHP;Creative+Developer+%7C+Problem+Solver;Turning+Ideas+Into+Reality"/>
 
 <br/>
 
 <a href="https://priyankayadav-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 <a href="https://github.com/PriyankaYadav99">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-## ✨ About Me
-
-Hi! I'm **Priyanka Yadav**, a passionate Web Developer who enjoys creating modern, responsive and user-friendly digital experiences.
-
-- 💻 Focused on Web Development and ReactJS.
-- 🎨 Interested in creative UI/UX and modern web design.
-- 🚀 Love building responsive and interactive websites.
-- 🧩 Enjoy solving problems and learning new technologies.
-- 📈 Combining technical knowledge with business understanding.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,angular" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=php,mysql" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,figma,postman" />
+<img src="https://komarev.com/ghpvc/?username=PriyankaYadav99&style=for-the-badge&color=8B5CF6&label=PROFILE+VISITORS"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
+
+# ✦ ABOUT ME ✦
+
+### Hi, I'm Priyanka Yadav 👩‍💻
+
+**Web Developer | ReactJS Developer | Creative Thinker**
+
+I love transforming ideas into modern, responsive and engaging digital experiences.
+
+</div>
+
+- 💻 Web Development & ReactJS
+- 🎨 Creative UI/UX and Modern Web Design
+- 🚀 Responsive Website Development
+- ⚡ Performance & User Experience
+- 📚 Continuous Learning & Innovation
+
+---
 
 <div align="center">
+
+# ✦ MY TECH UNIVERSE ✦
+
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery,angular&theme=dark"/>
+
+### BACKEND & DATABASE
+
+<img src="https://skillicons.dev/icons?i=php,mysql&theme=dark"/>
+
+### TOOLS & PLATFORMS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,figma,postman&theme=dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# ✦ FEATURED PROJECTS ✦
 
 <a href="https://github.com/PriyankaYadav99/myPortfolio-react">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyankaYadav99&repo=myPortfolio-react&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/PriyankaYadav99/Snake-Game">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyankaYadav99&repo=Snake-Game&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyankaYadav99&repo=myPortfolio-react&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/PriyankaYadav99/Coding-Quiz-Website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyankaYadav99&repo=Coding-Quiz-Website&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyankaYadav99&repo=Coding-Quiz-Website&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/PriyankaYadav99/Snake-Game">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyankaYadav99&repo=Snake-Game&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/PriyankaYadav99/Counter_JavaScript">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyankaYadav99&repo=Counter_JavaScript&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyankaYadav99&repo=Counter_JavaScript&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PriyankaYadav99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+# ✦ GITHUB ANALYTICS ✦
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaYadav99&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PriyankaYadav99&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaYadav99&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=PriyankaYadav99&theme=tokyonight&hide_border=true" width="65%" />
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=PriyankaYadav99&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌐 Let's Connect
+<div align="center">
+
+# ✦ BEYOND THE CODE ✦
+
+<details>
+<summary><b>🚀 My Interests</b></summary>
+<br/>
+Creative Web Design · ReactJS · Interactive UI · Modern Technology · Problem Solving
+</details>
+
+<details>
+<summary><b>💡 My Philosophy</b></summary>
+<br/>
+Great design meets great code. Every pixel and every interaction matters.
+</details>
+
+<details>
+<summary><b>🎯 My Goal</b></summary>
+<br/>
+Building meaningful digital products and continuously growing as a developer.
+</details>
+
+</div>
+
+---
 
 <div align="center">
 
+# ✦ LET'S CONNECT ✦
+
 <a href="https://priyankayadav-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/PriyankaYadav99">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Follow%20Me-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**Thanks for visiting my profile! 💜**
+### ✨ DREAM BIG. CODE BETTER. CREATE MORE. ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:6C63FF,100:141E30&height=100&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:061D32,50:6C63FF,100:080B18"/>
 
 </div>
